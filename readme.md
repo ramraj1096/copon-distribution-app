@@ -22,7 +22,7 @@ The **Round-Robin Coupon Distribution** application allows guest users to claim 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (for admin login)
-- **Deployment**: Hosted on [Your Hosting Service]
+- **Deployment**: Hosted on Vercel(Frontend) && Render(Backend)
 
 ## Installation & Setup
 ### **Prerequisites**
@@ -84,7 +84,7 @@ MONGODB_URI=mongodb url
 - **URL**: https://round-robin-copon-claim.vercel.app/
 - **Admin Credentials**:
   - **Username**: admin
-  - **Password**: [provided separately]
+  - **Password**: ADMIN_PASSWORD
 
 ## API Endpoints
 ### **User API**
