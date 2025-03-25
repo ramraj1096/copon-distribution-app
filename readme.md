@@ -81,7 +81,7 @@ MONGODB_URI=mongodb url
 3. **View Claim History**: Check users who have claimed coupons.
 
 ## Live Deployment
-- **URL**: [Your Deployed Application Link]
+- **URL**: https://round-robin-copon-claim.vercel.app/
 - **Admin Credentials**:
   - **Username**: admin
   - **Password**: [provided separately]
