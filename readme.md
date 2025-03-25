@@ -32,7 +32,7 @@ Ensure you have the following installed:
 
 ### **Clone the Repository**
 ```sh
- git clone <repository_url>
+ git clone https://github.com/ramraj1096/copon-distribution-app
  cd round-robin-coupon
 ```
 
@@ -114,10 +114,6 @@ MONGODB_URI=mongodb url
 - Add role-based access control (RBAC) for admins.
 
 ## Contact & Support
-For any issues, reach out to [Your Contact Information].
+For any issues, reach out to ramarajuboya1096@gmail.com.
 
----
-
-### **License**
-This project is licensed under [Your License].
 
